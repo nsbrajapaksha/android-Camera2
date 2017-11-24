@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/Documents/android-Camera2Basic-master (3)/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/user/.android/build-cache/cdbaca90cedfc5d233f96b270a391c4af270e19d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/android-Camera2Basic-master (3)/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/user/.android/build-cache/6c086532a54fc1a5080fd43d266460496f58b206/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/user/Documents/android-Camera2Basic-master (3)/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/user/.android/build-cache/cdbaca90cedfc5d233f96b270a391c4af270e19d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/user/Documents/android-Camera2Basic-master (3)/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/user/.android/build-cache/cdbaca90cedfc5d233f96b270a391c4af270e19d/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
